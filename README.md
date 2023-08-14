@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width = 500 src="https://github-profile-trophy.vercel.app/?username=princesudipto21" alt="princesudipto21" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/royal_legend_21" target="blank"><img src="https://img.shields.io/twitter/follow/royal_legend_21?logo=twitter&style=for-the-badge" alt="royal_legend_21" /></a> </p>
-
-- 🌱 I’m currently learning **web development, .net, php**
+- 🌱 I’m currently learning **JAVA, Data Science**
 
 - 👨‍💻 All of my achievements are available at [https://www.linkedin.com/in/sudipto-das-2021/](https://www.linkedin.com/in/sudipto-das-2021/)
 
@@ -19,14 +17,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xhfqk-Kd2KKfgl2cw3a2J2YBiogYZRcr/view?usp=drive_link](https://drive.google.com/file/d/1xhfqk-Kd2KKfgl2cw3a2J2YBiogYZRcr/view?usp=drive_link)
 
-- ⚡ Fun fact **I am really an workaholic.**
+- ⚡ Fun fact **I am a chill coder..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/royal_legend_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="royal_legend_21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sudipto-das-2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudipto-das-21" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19248122/sudipto?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19248122/sudipto?tab=profile" height="30" width="40" /></a>
-<a href="https://instagram.com/sudipto.das.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudipto.das.21" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/namrata-89a02b224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudipto-das-21" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/sudiptodas2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudiptodas2002" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/princesudipto201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="princesudipto201" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/princesudipto21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="princesudipto21" height="30" width="40" /></a>
