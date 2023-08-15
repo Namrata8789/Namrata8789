@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **competitive programming, Data Structures, backend**
 
-- 📫 How to reach me **princesudipto2002@gmail.com**
+- 📫 How to reach me **kumarianesha2512@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xhfqk-Kd2KKfgl2cw3a2J2YBiogYZRcr/view?usp=drive_link](https://drive.google.com/file/d/1xhfqk-Kd2KKfgl2cw3a2J2YBiogYZRcr/view?usp=drive_link)
 
