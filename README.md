@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JAVA, Data Science**
 
-- 👨‍💻 All of my achievements are available at [https://www.linkedin.com/in/sudipto-das-2021/](https://www.linkedin.com/in/sudipto-das-2021/)
+- 👨‍💻 All of my achievements are available at [https://www.linkedin.com/in/namrata-89a02b224](https://www.linkedin.com/in/namrata-89a02b224)
 
 - 💬 Ask me about **competitive programming, Data Structures, backend**
 
