@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA, Data Science**
+- 🌱 I’m currently learning **web devlopment, .net, php**
 
 - 👨‍💻 All of my achievements are available at [https://www.linkedin.com/in/namrata-89a02b224](https://www.linkedin.com/in/namrata-89a02b224)
 
